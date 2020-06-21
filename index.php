@@ -1,4 +1,7 @@
 <?php 
+/*
+Author : Mochammad Ihza Rizky Karim
+*/
 
 //Syntax Pertama (Dasar)
 echo "<h1>DOKUMENTASI PEMBELJARAN PHP<h1>";
