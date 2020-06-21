@@ -10,7 +10,7 @@ biasanya disandingkan dengan SQL untuk pengolahan database.
 
 **Dokumentasi Resmi :**
 
-website resmi php : ![php.net](https://www.php.net/)
+website resmi php : [php.net](https://www.php.net/)
 
 **Requirement (Kebutuhan) :**
 
