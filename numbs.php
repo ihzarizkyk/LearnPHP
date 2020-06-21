@@ -1,4 +1,7 @@
 <?php 
+/*
+Author : Mochammad Ihza Rizky Karim
+*/
 
 // Number (Angka) & Math (Operasi Matematika)
 
