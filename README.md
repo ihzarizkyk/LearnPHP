@@ -19,3 +19,14 @@ website resmi php : [php.net](https://www.php.net/)
 - web server seperti lampp untuk linux, wampp untuk Windows atau Mac Os, Xampp untuk windows os
 - Browser seperti chrome, firefox, safari browser
 - Text Editor seperti Sublime Text, Atom, VS Code, Notepad, Notepad++
+
+**Struktur Dasar Kode PHP :**
+
+'''
+<?php
+
+//isi kode program
+echo "Heloo World";
+
+?>
+'''
