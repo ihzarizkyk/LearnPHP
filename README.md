@@ -4,6 +4,8 @@
 
 Dokumentasi Pembelajaran Pemrograman PHP 
 
+**Versi :** PHP 7.4.7 (11 Juni 2020)
+
 **Definisi :**
 
 PHP kepanjangan dari Hypertext Preprocessor yang berada di sisi server atau server side.
