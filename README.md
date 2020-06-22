@@ -30,3 +30,5 @@ website resmi php : [php.net](https://www.php.net/)
 echo "Heloo World";
 
 ?>`
+
+**Author :** Mochammad Ihza Rizky Karim
