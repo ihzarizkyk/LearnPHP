@@ -1,5 +1,9 @@
 <?php 
 
+/*
+Author : Mochammad Ihza Rizky Karim
+*/
+
 // Perulangan For PHP
 
 
