@@ -32,7 +32,7 @@ Hasil CARA 2 :
 
 Hasil CARA 3 :
 
-undefined constant PERCOAAN, dimasa depan fungsi ini akan
+undefined constant PERCOBAAN, dimasa depan fungsi ini akan
 menghasilkan nilai error ketika PHP Versi Terbaru
 
 
