@@ -15,7 +15,7 @@ Merubah String menjadi Array
 $data = "Aku Kamu Kalian";
 
 var_dump(explode(" ",$data));
-// exlode(separator(tidak boleh kosong),variabel)
+// explode(separator(tidak boleh kosong),variabel)
 
 echo "<br>";
 
