@@ -17,26 +17,26 @@ msg();
 
 // Membuat Fungsi dengan Parameter
 
-function kali($kali){
-	echo $kali**2;
+function pangkat($pangkat){
+	echo $pangkat**2;
 	echo "<br>";
-	return $kali;
+	return $pangkat;
 }
 
 // Memanggil Fungsi dan mengisinya dengan Argumen
 
 echo"<br>";
-echo "FUNGSI KALI"."<br>";
-kali(2);
-kali(4);
-kali(6);
+echo "FUNGSI PANGKAT"."<br>";
+pangkat(2);
+pangkat(4);
+pangkat(6);
 
 /*
 Output :
 
 Halo, Selamat Datang
 
-FUNGSI KALI
+FUNGSI PANGKAT
 4
 16
 36
