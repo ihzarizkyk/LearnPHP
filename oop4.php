@@ -26,24 +26,33 @@ class bahasa{
 	}
 
 	function __destruct(){
-		echo "Ini adalah Bahasa {$this->nama} dan Berasal dari Daerah {$this->daerah}";
+		echo "Ini adalah Bahasa {$this->nama} dan Berasal dari Daerah {$this->daerah} <br> ";
 	}
 
 }
 
 
 $nama1 = new bahasa("Bahasa Jawa","Jawa");
+$nama2 = new bahasa("Bahasa Madura","Madura");
 echo $nama1->get_nama();
 echo "<br>";
 echo $nama1->get_daerah();
 echo "<br>";
+echo $nama2->get_nama();
+echo "<br>";
+echo $nama2->get_daerah();
+echo "<br>";
+
 
 /*
 Output :
 
 Bahasa Jawa
 Jawa
+Bahasa Madura
+Madura
 
+Ini adalah Bahasa Bahasa Madura dan Berasal dari Daerah Madura
 Ini adalah Bahasa Bahasa Jawa dan Berasal dari Daerah Jawa
 
 */
