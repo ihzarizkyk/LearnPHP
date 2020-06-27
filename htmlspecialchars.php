@@ -1,4 +1,7 @@
 <?php 
+/*
+Author : Mochammad Ihza Rizky Karim
+*/
 
 // htmlspecialchars
 // berfungsi untuk mengkonversi karakter spesial ke HTML entities
