@@ -10,7 +10,7 @@ $s2 = "Ini adalah string 2";
 
 echo $s1.",".$s2."<br>";
 
-// Fungsi len untuk menghitung jumlah karakter string
+// Fungsi strlen untuk menghitung jumlah karakter string
 echo "Jumlah String ada ".strlen($s1);
 echo "<br>";
 echo "Jumlah String ada ".strlen($s1)."<br>";
