@@ -31,4 +31,20 @@ echo "Heloo World";
 
 ?>`
 
+**Object Oriented Programming (OOP) PHP :**
+
+OOP PHP Merupakan Gaya Penulisan pada bahasa pemrograman PHP yang Berorientasi pada Objek
+dan terbentuk dari class
+
+**Runtutan OOP PHP :**
+- Class / Object
+- Property
+- Method
+- Constructor dan destructor
+- Inheritance (Pewarisan Class)
+- Constants
+- Abstract Class
+- Static Method
+- Static property
+
 **Author :** Mochammad Ihza Rizky Karim
