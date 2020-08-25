@@ -46,5 +46,6 @@ dan terbentuk dari class
 - Abstract Class
 - Static Method
 - Static property
+- Namespace
 
 **Author :** Mochammad Ihza Rizky Karim
