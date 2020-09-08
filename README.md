@@ -23,13 +23,15 @@ website resmi php : [php.net](https://www.php.net/)
 **Struktur Dasar Kode PHP :**
 
 
-`<?php
+```
+<?php
 
 //isi kode program
 
 echo "Heloo World";
 
-?>`
+?>
+```
 
 **Object Oriented Programming (OOP) PHP :**
 
